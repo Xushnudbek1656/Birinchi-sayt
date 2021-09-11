@@ -1,0 +1,17 @@
+.input{
+    
+}
+.input input{
+    margin-top: 10px
+}
+.button{
+    background-color: black;
+    color: white;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+.button:hover{
+    cursor: pointer;
+    background-color: white;
+    color: black
+}
